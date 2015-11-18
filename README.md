@@ -7,3 +7,9 @@ This sketch uses an agent system to simulate fibrous system, but it can be used 
  -Flocking algorithm from Jose Sanchez ( Plethora project ) .
  -Agent angle of vision form Daniel Shiffman.
  
+ Libraries needed:
+ 
+ Toxiclibs
+ ConstrolP5
+ 
+ Code written for Processing 2.0
